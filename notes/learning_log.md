@@ -27,6 +27,7 @@
 ## 每日记录
 
 - [2026-05-14](daily/2026-05-14.md)：clone 项目、配置 fork remote、完成 GitHub issue 初步调研。
+- [2026-05-15](daily/2026-05-15.md)：复盘 Day 1 三个问题，理解 `<search>`、`<information>`、`<answer>` 协议。
 
 ## 当前关键判断
 
